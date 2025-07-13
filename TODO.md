@@ -3,13 +3,13 @@
 Below is a proposed list of tasks for migrating documentation to a GitHub Pages powered wiki and for upcoming refactors.
 
 ## GitHub Pages Wiki Tasks
-1. **Create docs directory**
+1. **Create docs directory** *(done)*
    - Add `docs/index.md` with project overview, quick start, and link to examples.
    - Configure the repository to use the `docs/` folder for GitHub Pages in repository settings.
-2. **Migrate existing README content**
+2. **Migrate existing README content** *(in progress)*
    - Split longer sections (usage, license, credits) into dedicated pages.
    - Keep a trimmed README that links to the wiki.
-3. **Write API reference**
+3. **Write API reference** *(partial)*
    - Document each module and function from `API.lua`.
    - Include code snippets and images from `SlabTest.lua`.
 4. **Add tutorials and examples**
